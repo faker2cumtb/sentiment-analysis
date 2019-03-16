@@ -2,7 +2,7 @@
 对微博评论进行情感三分类(正面,中性,负面)
 
 [![license](https://img.shields.io/github/license/go88/fer2013-recognition.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/go88/fer2013-recognition/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/faker2cumtb/sentimentanalysis/pulls)
 [![GitHub (pre-)release](https://img.shields.io/github/release/go88/fer2013-recognition/all.svg?style=for-the-badge)](https://github.com/faker2cumtb/sentimentanalysis/releases)
 
 ---
