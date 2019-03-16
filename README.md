@@ -14,7 +14,7 @@ data/       存放训练语料测试语料
     cache/    词向量
     dict/     停用词表
     config.properties    sql相关配置信息
-experiment_record       实验记录
+experiment_record/       实验记录
     dict/       语料词典
     model/      保存的模型
     sql/        sql语句
