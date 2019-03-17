@@ -62,3 +62,11 @@ python sentiment_classify.py
 |--dropout|dropout|0.5|
 |--lr|学习率|0.001|
 |--word_dict_path|词典路径|
+
+## python及相关依赖包版本
+| Name | Version | 
+| ------ | ------ | 
+|python|3.6.7|
+|tensorflow|1.12.0|
+|jieba|0.39|
+|gensim|3.7.0|
