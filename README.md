@@ -69,4 +69,5 @@ python sentiment_classify.py
 |python|3.6.7|
 |tensorflow|1.12.0|
 |jieba|0.39|
+|PyMySql|0.9.3|
 |gensim|3.7.0|
